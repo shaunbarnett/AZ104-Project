@@ -106,3 +106,4 @@ graph TD
     SA --> C2[(vm-uploads)]
 
     RGcompute[rg-compute-we] --> VM
+```
