@@ -20,11 +20,14 @@ AZ104-Project/
 │
 ├── docs/
 │     ├── Step1-ResourceGroup.docx
+│     ├── Step2-Networking.docx
 │     ├── Step3-NSG.docx
+│     ├── Step4-VM.docx
+│     ├── Step5-Storage.docx
 │     ├── Step6-Monitoring.docx
+│     ├── Step7-Governance.docx
 │
-└── images/
-
+└── (no images folder required – screenshots stored inside .docx files)
 
 ## 1️⃣ Resource Groups
 
