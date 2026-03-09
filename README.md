@@ -104,5 +104,5 @@ graph TD
     SA --> C1[(boot-diagnostics)]
     SA --> C2[(vm-uploads)]
 
-    RGcompute[rg-compute-we] --> VM
-```
+    RGcompute[rg-compute-we] --> VM```
+
