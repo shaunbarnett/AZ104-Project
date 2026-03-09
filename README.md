@@ -97,10 +97,10 @@ graph TD
     VNET --> SUB1[subnet-servers]
     VNET --> SUB2[subnet-management]
 
-    SUB1 --> VM[vm-web01<br/>Windows Server 2022<br/>Standard_D2ads_v6]
+    SUB1 --> VM["vm-web01 | Windows Server 2022 | Standard_D2ads_v6"]
     SUB1 --> NSG[nsg-servers]
 
-    RGstorage[rg-storage-we] --> SA[Storage Account<br/>stcore*]
+    RGstorage[rg-storage-we] --> SA["Storage Account | stcore*"]
     SA --> C1[(boot-diagnostics)]
     SA --> C2[(vm-uploads)]
 
