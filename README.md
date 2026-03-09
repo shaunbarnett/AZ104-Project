@@ -90,7 +90,6 @@ Real-time charts enabled through Azure Monitor.
 Created an alert for CPU > 80%.
 
 
-
 ```mermaid
 graph TD
 
