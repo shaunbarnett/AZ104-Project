@@ -90,7 +90,6 @@ Real-time charts enabled through Azure Monitor.
 Created an alert for CPU > 80%.
 
 
-````markdown
 ```mermaid
 graph TD
 
@@ -106,3 +105,4 @@ graph TD
     SA --> C2[(vm-uploads)]
 
     RGcompute[rg-compute-we] --> VM
+```
